@@ -1,0 +1,11 @@
+area.boundries=5,E
+battleship1.type=Q
+battleship1.dimension=1,1
+battleship1.playerA.location=A1
+battleship1.playerB.location=B2
+battleship2.type=P
+battleship2.dimension=2,1
+battleship2.playerA.location=D4
+battleship2.playerB.location=C3
+missile.targets.playerA=A1,B2,B2,B3
+missile.targets.playerB=A1,B2,B3,A1,D1,E1,D4,D4
